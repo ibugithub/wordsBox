@@ -1,7 +1,7 @@
 import re
 
-wordsFile = "AwordsBox/AwordsBox5/words.txt" 
-convFile = "AwordsBox/AwordsBox5/story2.txt" 
+wordsFile = "AwordsBox/AwordsBox6/words.txt" 
+convFile = "AwordsBox/AwordsBox6/story2.txt" 
 
 counted_matched_words = {}
 matched_words = []

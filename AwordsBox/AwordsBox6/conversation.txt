@@ -1,0 +1,43 @@
+Saima: Can you assist me with understanding how computers work?
+Naima: Sure! Let me asseverate what I know. A computer operates by processing information in a logical and systematic way.
+Saima: Can you associate that with how the hardware and software work together?
+Naima: Absolutely. The hardware and software work in tandem to sort and process data. The hardware includes the physical components, like the keyboard and mouse, while the software refers to the programs that operate on the hardware.
+Saima: That helps, but I'm still a little confused. How does a computer actually process information?
+Naima: Good question! It does so by using algorithms and binary code, which is the language that computers use to communicate with one another. The computer will assume certain actions based on the code it receives, and will assure that the correct operations are carried out.
+Saima: That's really interesting. The speed and efficiency of computers is astonishing to me.
+Naima: Yes, it is truly astounding how far we've come with technology. But, we also need to atone for some of the negative impacts that technology has had on society.
+Saima: That's true. It's important to attach ethical considerations to the development and use of technology, so that it isn't used to attack or harm others.
+Naima: Exactly. It's all about balance and using technology to assist us in positive ways. 
+
+
+
+
+
+
+
+
+conversation 2:
+
+ibrahim: Hey, do you know much about computer CPUs and how they work?
+
+rakib: A little bit, what would you like to know?
+
+ibrahim: Well, I'm trying to attain a better understanding of how CPUs function and what they're responsible for in a computer. Can you help me out?
+
+rakib: Sure, I'll attempt to explain it as best as I can. Essentially, a CPU, or Central Processing Unit, is like the brain of the computer. It's responsible for processing data and executing instructions.
+
+ibrahim: Okay, that makes sense. So, what kind of things do CPUs attend to?
+
+rakib: Well, CPUs can perform a variety of tasks, from basic arithmetic and logic operations to more complex tasks like running software applications or playing video games.
+
+ibrahim: That's interesting. What about attributes of CPUs? Are there certain features or characteristics that make them better or worse than others?
+
+rakib: Absolutely. CPUs can differ in terms of their clock speed, number of cores, cache size, and other factors. These attributes can impact a CPU's performance, so it's important to choose the right CPU for your needs.
+
+ibrahim: Got it. And what kind of things can you do to augment or improve the performance of a CPU?
+
+rakib: There are a few things you can do. For example, you can authenticate and authorize software applications that are optimized for your specific CPU, or you can avoid running too many programs at once to prevent overloading the CPU. Additionally, you can ensure that your CPU is properly cooled and maintained to prevent overheating, which can lead to a decrease in performance.
+
+ibrahim: Thanks for the information, that's really helpful. You've definitely astounded me with your knowledge of CPUs!
+
+rakib: Haha, no problem. I'm always happy to assist a rakib.

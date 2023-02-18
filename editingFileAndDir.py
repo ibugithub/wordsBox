@@ -2,7 +2,7 @@ import os
 import shutil 
 
 baseDir = os.getcwd()
-fileName = 'story2.txt'
+fileName = 'article.txt'
 
 
 with os.scandir(baseDir) as dirs:

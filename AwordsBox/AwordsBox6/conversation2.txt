@@ -1,0 +1,41 @@
+Sara: Hey, have you heard about programming languages?
+Ali: Yes, I have. I have been meaning to learn more about them.
+Sara: Well, programming languages are the foundation of computer programming.
+Ali: Really? How so?
+Sara: Essentially, a programming language is used to write code, which is then compiled or interpreted to create software programs.
+Ali: That sounds complicated. How do I get started?
+Sara: It can be at first, but there are plenty of resources available to learn from. You could start by reading books or taking an online course.
+Ali: Thanks for the tips. How do I choose the right programming language to learn?
+Sara: There are many factors to consider, like what type of software you want to create, your experience level, and the job market. You'll need to do some research to find out which programming language would be best suited for your needs.
+Ali: That makes sense. Do you have any tips on how to approach learning a programming language?
+Sara: Well, it can be overwhelming at first, but the key is to take it one step at a time. Make sure to organize your learning and practice regularly. Don't be afraid to ask for help if you need it. It's also important to find resources that you enjoy using, to make learning more enjoyable.
+Ali: That's great advice. Thanks, Sara!
+Sara: No problem, happy to help. Remember, it's important to assort your learning and assuage any doubts or fears you may have about programming. With hard work and dedication, you can attain mastery of a programming language and attest to your abilities. And, once you do, you'll be able to avail many exciting opportunities in the tech industry!
+
+
+
+
+
+
+
+
+conversation 2: 
+Saima: Hey Naima, do you know much about programming languages?
+
+Naima: Not really, why do you ask?
+
+Saima: I was just wondering if you could help me understand the different types of programming languages out there.
+
+Naima: Sure, I'd be happy to help. There are a lot of different programming languages, each with their own strengths and weaknesses.
+
+Saima: That makes sense. Can you give me some examples?
+
+Naima: Sure, some popular programming languages include Java, Python, and C++. Java is great for building complex applications, Python is known for its simplicity and ease of use, and C++ is often used for building high-performance software.
+
+Saima: Wow, I had no idea there were so many options. How do you decide which programming language to use for a specific project?
+
+Naima: It depends on a lot of factors, like the type of project you're working on, the size of the project, and the specific goals you're trying to achieve. But ultimately, you want to choose a programming language that's going to make it as easy as possible to accomplish what you want to do.
+
+Saima: That makes sense. Thanks for explaining it to me, Naima.
+
+Naima: No problem, happy to help.
